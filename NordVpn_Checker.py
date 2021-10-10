@@ -5,11 +5,6 @@ import re
 welcome = """
 |||||       NordVpn Checker [ProxyLess]       |||||
 
- ||||        Coded By : @Mr_Amir_Typer        ||||
-
-  |||        Our Channel : @Sezar_Hack        |||
-
-   ||        ©Powered By : NowaTech.ir        ||
 """
 print(welcome)
 def login(combo):
